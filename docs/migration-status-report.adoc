@@ -15,7 +15,7 @@ The table is based on https://issues.apache.org/jira/secure/BrowseProjects.jspa?
 | MNG                                                           | Maven                                           | ❌                                     |
 | MACR                                                          | Maven ACR Plugin                                | ❌                                     |
 | MANTRUN                                                       | Maven Antrun Plugin                             | ❌                                     |
-| https://issues.apache.org/jira/projects/ARCHETYPE/[ARCHETYPE] | Maven Archetype                                 | ❌                                     | https://lists.apache.org/thread/56mhgp2kynylo5ctpdk5m1qczjzj6wln[test in progress]
+| https://issues.apache.org/jira/projects/ARCHETYPE/[ARCHETYPE] | Maven Archetype                                 | ❌                                     | https://lists.apache.org/thread/oznsnq7gnzyotvgh5n9t215ny1454nky[test in progress]
 | MARCHETYPES                                                   | Maven Archetype Bundles                         | ❌                                     |
 | MARTIFACT                                                     | Maven Artifact Plugin                           | ❌                                     |
 | MASSEMBLY                                                     | Maven Assembly Plugin                           | ❌                                     |
@@ -23,7 +23,7 @@ The table is based on https://issues.apache.org/jira/secure/BrowseProjects.jspa?
 | MCHANGELOG                                                    | Maven Changelog Plugin                          | ❌                                     |
 | MCHANGES                                                      | Maven Changes Plugin                            | ❌                                     |
 | MCHECKSTYLE                                                   | Maven Checkstyle Plugin                         | ❌                                     |
-| https://issues.apache.org/jira/projects/MCLEAN/[MCLEAN]       | Maven Clean Plugin                              | ✔                                     | https://lists.apache.org/thread/56mhgp2kynylo5ctpdk5m1qczjzj6wln[test in progress]
+| https://issues.apache.org/jira/projects/MCLEAN/[MCLEAN]       | Maven Clean Plugin                              | ✔                                      | https://lists.apache.org/thread/oznsnq7gnzyotvgh5n9t215ny1454nky[test in progress]
 | MCOMPILER                                                     | Maven Compiler Plugin                           | ❌                                     |
 | MDEP                                                          | Maven Dependency Plugin                         | ❌                                     |
 | MDEPLOY                                                       | Maven Deploy Plugin                             | ❌                                     |
@@ -44,7 +44,7 @@ The table is based on https://issues.apache.org/jira/secure/BrowseProjects.jspa?
 | MJAVADOC                                                      | Maven Javadoc Plugin                            | ❌                                     |
 | MJDEPRSCAN                                                    | Maven JDeprScan Plugin                          | ❌                                     |
 | MJDEPS                                                        | Maven JDeps Plugin                              | ❌                                     |
-| https://issues.apache.org/jira/projects/MJLINK/[MJLINK]       | Maven JLink Plugin                              | ✔                                     | https://lists.apache.org/thread/56mhgp2kynylo5ctpdk5m1qczjzj6wln[test in progress]
+| https://issues.apache.org/jira/projects/MJLINK/[MJLINK]       | Maven JLink Plugin                              | ✔                                     | https://lists.apache.org/thread/oznsnq7gnzyotvgh5n9t215ny1454nky[test in progress]
 | MJMOD                                                         | Maven JMod Plugin                               | ❌                                     |
 | JXR                                                           | Maven JXR                                       | ❌                                     |
 | MLINKCHECK                                                    | Maven Linkcheck Plugin                          | ❌                                     |
